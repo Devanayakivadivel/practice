@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Devanayakivadivel/practice/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Devanayakivadivel/practice/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Devanayakivadivel/practice/tree/master/0890-lemonade-change) |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Devanayakivadivel/practice/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
