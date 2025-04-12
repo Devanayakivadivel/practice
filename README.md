@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/Devanayakivadivel/practice/tree/master/2288-count-operations-to-obtain-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Devanayakivadivel/practice/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Devanayakivadivel/practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
