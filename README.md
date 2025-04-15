@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Devanayakivadivel/practice/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Devanayakivadivel/practice/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/Devanayakivadivel/practice/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Devanayakivadivel/practice/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Devanayakivadivel/practice/tree/master/0890-lemonade-change) |
 ## Greedy
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devanayakivadivel/practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Devanayakivadivel/practice/tree/master/0012-integer-to-roman) |
+| [0575-distribute-candies](https://github.com/Devanayakivadivel/practice/tree/master/0575-distribute-candies) |
 ## Simulation
 |  |
 | ------- |
