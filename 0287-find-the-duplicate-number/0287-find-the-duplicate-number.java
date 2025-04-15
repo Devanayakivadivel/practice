@@ -8,5 +8,7 @@ class Solution {
             visited[num]=true;
         }
         return -1;
+       
+          
     }
 }
