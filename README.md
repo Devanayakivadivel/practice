@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Devanayakivadivel/practice/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Devanayakivadivel/practice/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Devanayakivadivel/practice/tree/master/0890-lemonade-change) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Devanayakivadivel/practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Greedy
 |  |
 | ------- |
