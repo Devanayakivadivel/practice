@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Devanayakivadivel/practice/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Devanayakivadivel/practice/tree/master/2288-count-operations-to-obtain-zero) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Devanayakivadivel/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Devanayakivadivel/practice/tree/master/0055-jump-game) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Devanayakivadivel/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
