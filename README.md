@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Devanayakivadivel/practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Devanayakivadivel/practice/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
+| [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Devanayakivadivel/practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Devanayakivadivel/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Devanayakivadivel/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
