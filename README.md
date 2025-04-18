@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devanayakivadivel/practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Devanayakivadivel/practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Devanayakivadivel/practice/tree/master/0344-reverse-string) |
+| [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Devanayakivadivel/practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devanayakivadivel/practice/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Devanayakivadivel/practice/tree/master/0575-distribute-candies) |
+| [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
 | [2486-most-frequent-even-element](https://github.com/Devanayakivadivel/practice/tree/master/2486-most-frequent-even-element) |
 ## Simulation
 |  |
