@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Devanayakivadivel/practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Devanayakivadivel/practice/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Devanayakivadivel/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Devanayakivadivel/practice/tree/master/0342-power-of-four) |
 | [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Devanayakivadivel/practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -131,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Devanayakivadivel/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Devanayakivadivel/practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
