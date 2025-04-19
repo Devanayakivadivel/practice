@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devanayakivadivel/practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Devanayakivadivel/practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Devanayakivadivel/practice/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/0742-to-lower-case) |
 | [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Devanayakivadivel/practice/tree/master/1341-split-a-string-in-balanced-strings) |
 ## String Matching
