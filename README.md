@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Devanayakivadivel/practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Devanayakivadivel/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devanayakivadivel/practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3830-find-closest-person](https://github.com/Devanayakivadivel/practice/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
