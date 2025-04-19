@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/0742-to-lower-case) |
 | [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Devanayakivadivel/practice/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 ## String Matching
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Devanayakivadivel/practice/tree/master/0575-distribute-candies) |
 | [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Devanayakivadivel/practice/tree/master/2486-most-frequent-even-element) |
 ## Simulation
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
