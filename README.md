@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Devanayakivadivel/practice/tree/master/2122-count-special-quadruplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Devanayakivadivel/practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Devanayakivadivel/practice/tree/master/2486-most-frequent-even-element) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Devanayakivadivel/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devanayakivadivel/practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Devanayakivadivel/practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Devanayakivadivel/practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
 | [2122-count-special-quadruplets](https://github.com/Devanayakivadivel/practice/tree/master/2122-count-special-quadruplets) |
 | [2486-most-frequent-even-element](https://github.com/Devanayakivadivel/practice/tree/master/2486-most-frequent-even-element) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Devanayakivadivel/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Devanayakivadivel/practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devanayakivadivel/practice/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Devanayakivadivel/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Recursion
 |  |
 | ------- |
