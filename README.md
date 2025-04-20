@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Devanayakivadivel/practice/tree/master/0978-valid-mountain-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Devanayakivadivel/practice/tree/master/1656-count-good-triplets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Devanayakivadivel/practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Devanayakivadivel/practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Devanayakivadivel/practice/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Devanayakivadivel/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Devanayakivadivel/practice/tree/master/2836-neither-minimum-nor-maximum) |
 ## Recursion
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Devanayakivadivel/practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Devanayakivadivel/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Devanayakivadivel/practice/tree/master/0342-power-of-four) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
