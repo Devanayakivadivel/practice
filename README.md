@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Devanayakivadivel/practice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Devanayakivadivel/practice/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/Devanayakivadivel/practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanayakivadivel/practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Devanayakivadivel/practice/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Devanayakivadivel/practice/tree/master/0575-distribute-candies) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Devanayakivadivel/practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devanayakivadivel/practice/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Devanayakivadivel/practice/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Devanayakivadivel/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Devanayakivadivel/practice/tree/master/2836-neither-minimum-nor-maximum) |
