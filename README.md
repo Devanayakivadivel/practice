@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Devanayakivadivel/practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Devanayakivadivel/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Devanayakivadivel/practice/tree/master/0342-power-of-four) |
+| [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devanayakivadivel/practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
 | [2037-count-square-sum-triples](https://github.com/Devanayakivadivel/practice/tree/master/2037-count-square-sum-triples) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Devanayakivadivel/practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanayakivadivel/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
 ## Geometry
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
