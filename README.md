@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/Devanayakivadivel/practice/tree/master/1656-count-good-triplets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Devanayakivadivel/practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Devanayakivadivel/practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Devanayakivadivel/practice/tree/master/2486-most-frequent-even-element) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1656-count-good-triplets](https://github.com/Devanayakivadivel/practice/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
