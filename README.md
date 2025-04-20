@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Devanayakivadivel/practice/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devanayakivadivel/practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
+| [2037-count-square-sum-triples](https://github.com/Devanayakivadivel/practice/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Devanayakivadivel/practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Devanayakivadivel/practice/tree/master/2288-count-operations-to-obtain-zero) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/Devanayakivadivel/practice/tree/master/1656-count-good-triplets) |
+| [2037-count-square-sum-triples](https://github.com/Devanayakivadivel/practice/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Devanayakivadivel/practice/tree/master/2122-count-special-quadruplets) |
 ## Number Theory
