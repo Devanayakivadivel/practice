@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devanayakivadivel/practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devanayakivadivel/practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Devanayakivadivel/practice/tree/master/1656-count-good-triplets) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Devanayakivadivel/practice/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Devanayakivadivel/practice/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Devanayakivadivel/practice/tree/master/0633-sum-of-square-numbers) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devanayakivadivel/practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devanayakivadivel/practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
