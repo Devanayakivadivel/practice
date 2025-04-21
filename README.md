@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Devanayakivadivel/practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Devanayakivadivel/practice/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Devanayakivadivel/practice/tree/master/0371-sum-of-two-integers) |
+| [0633-sum-of-square-numbers](https://github.com/Devanayakivadivel/practice/tree/master/0633-sum-of-square-numbers) |
 | [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Devanayakivadivel/practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devanayakivadivel/practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Devanayakivadivel/practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Devanayakivadivel/practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devanayakivadivel/practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Devanayakivadivel/practice/tree/master/0633-sum-of-square-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Devanayakivadivel/practice/tree/master/2442-number-of-arithmetic-triplets) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devanayakivadivel/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Devanayakivadivel/practice/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Devanayakivadivel/practice/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Devanayakivadivel/practice/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
