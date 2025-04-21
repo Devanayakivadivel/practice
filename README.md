@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devanayakivadivel/practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Devanayakivadivel/practice/tree/master/1656-count-good-triplets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Devanayakivadivel/practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devanayakivadivel/practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Devanayakivadivel/practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Devanayakivadivel/practice/tree/master/2122-count-special-quadruplets) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devanayakivadivel/practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Devanayakivadivel/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Devanayakivadivel/practice/tree/master/2836-neither-minimum-nor-maximum) |
 ## Recursion
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devanayakivadivel/practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Brainteaser
 |  |
 | ------- |
