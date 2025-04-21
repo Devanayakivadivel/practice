@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Devanayakivadivel/practice/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Devanayakivadivel/practice/tree/master/0371-sum-of-two-integers) |
 | [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Devanayakivadivel/practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devanayakivadivel/practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Devanayakivadivel/practice/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
