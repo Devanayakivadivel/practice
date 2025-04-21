@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Devanayakivadivel/practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Devanayakivadivel/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Devanayakivadivel/practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Devanayakivadivel/practice/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Devanayakivadivel/practice/tree/master/0371-sum-of-two-integers) |
 | [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devanayakivadivel/practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devanayakivadivel/practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devanayakivadivel/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Devanayakivadivel/practice/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Devanayakivadivel/practice/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
