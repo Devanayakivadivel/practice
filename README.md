@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Devanayakivadivel/practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Devanayakivadivel/practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Devanayakivadivel/practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Devanayakivadivel/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Devanayakivadivel/practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Devanayakivadivel/practice/tree/master/0367-valid-perfect-square) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Devanayakivadivel/practice/tree/master/0258-add-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Devanayakivadivel/practice/tree/master/2288-count-operations-to-obtain-zero) |
 ## Divide and Conquer
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Devanayakivadivel/practice/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Devanayakivadivel/practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Counting
