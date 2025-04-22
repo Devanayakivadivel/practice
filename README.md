@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Devanayakivadivel/practice/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Devanayakivadivel/practice/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devanayakivadivel/practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanayakivadivel/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Devanayakivadivel/practice/tree/master/0136-single-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Devanayakivadivel/practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Devanayakivadivel/practice/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Devanayakivadivel/practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Devanayakivadivel/practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Devanayakivadivel/practice/tree/master/0326-power-of-three) |
