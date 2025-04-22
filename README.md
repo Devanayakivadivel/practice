@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Devanayakivadivel/practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Devanayakivadivel/practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Devanayakivadivel/practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Devanayakivadivel/practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Devanayakivadivel/practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Devanayakivadivel/practice/tree/master/0258-add-digits) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Devanayakivadivel/practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Devanayakivadivel/practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanayakivadivel/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/Devanayakivadivel/practice/tree/master/1086-divisor-game) |
 ## Geometry
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devanayakivadivel/practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Devanayakivadivel/practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
