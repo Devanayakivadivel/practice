@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Devanayakivadivel/practice/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Devanayakivadivel/practice/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Devanayakivadivel/practice/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Devanayakivadivel/practice/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Devanayakivadivel/practice/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Devanayakivadivel/practice/tree/master/0978-valid-mountain-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Devanayakivadivel/practice/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/Devanayakivadivel/practice/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Devanayakivadivel/practice/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Devanayakivadivel/practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Devanayakivadivel/practice/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Devanayakivadivel/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Devanayakivadivel/practice/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Devanayakivadivel/practice/tree/master/0633-sum-of-square-numbers) |
+| [0917-boats-to-save-people](https://github.com/Devanayakivadivel/practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Devanayakivadivel/practice/tree/master/2442-number-of-arithmetic-triplets) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Devanayakivadivel/practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Devanayakivadivel/practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Devanayakivadivel/practice/tree/master/0414-third-maximum-number) |
+| [0917-boats-to-save-people](https://github.com/Devanayakivadivel/practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
