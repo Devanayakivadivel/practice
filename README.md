@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Devanayakivadivel/practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Devanayakivadivel/practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Devanayakivadivel/practice/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Devanayakivadivel/practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Devanayakivadivel/practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Devanayakivadivel/practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Devanayakivadivel/practice/tree/master/0231-power-of-two) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devanayakivadivel/practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Devanayakivadivel/practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Devanayakivadivel/practice/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Devanayakivadivel/practice/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Devanayakivadivel/practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Devanayakivadivel/practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devanayakivadivel/practice/tree/master/0345-reverse-vowels-of-a-string) |
