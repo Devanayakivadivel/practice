@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Devanayakivadivel/practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [3468-find-the-encrypted-string](https://github.com/Devanayakivadivel/practice/tree/master/3468-find-the-encrypted-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Devanayakivadivel/practice/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
 | ------- |
