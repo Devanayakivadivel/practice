@@ -9,7 +9,7 @@ class Solution {
                 ind++;
             }
             set.add(s.charAt(i));
-            max=Math.max(i-ind+1,max);
+            max=Math.max( i-ind+1 ,max);
         }
         return max;
     }
