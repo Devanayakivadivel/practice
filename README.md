@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Devanayakivadivel/practice/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Devanayakivadivel/practice/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Devanayakivadivel/practice/tree/master/0917-boats-to-save-people) |
+| [0926-find-and-replace-pattern](https://github.com/Devanayakivadivel/practice/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/Devanayakivadivel/practice/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Devanayakivadivel/practice/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Devanayakivadivel/practice/tree/master/0978-valid-mountain-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Devanayakivadivel/practice/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/0742-to-lower-case) |
 | [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
+| [0926-find-and-replace-pattern](https://github.com/Devanayakivadivel/practice/tree/master/0926-find-and-replace-pattern) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Devanayakivadivel/practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [3468-find-the-encrypted-string](https://github.com/Devanayakivadivel/practice/tree/master/3468-find-the-encrypted-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanayakivadivel/practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Devanayakivadivel/practice/tree/master/0575-distribute-candies) |
 | [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
+| [0926-find-and-replace-pattern](https://github.com/Devanayakivadivel/practice/tree/master/0926-find-and-replace-pattern) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devanayakivadivel/practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
