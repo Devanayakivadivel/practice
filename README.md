@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/Devanayakivadivel/practice/tree/master/1137-height-checker) |
+| [1319-unique-number-of-occurrences](https://github.com/Devanayakivadivel/practice/tree/master/1319-unique-number-of-occurrences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devanayakivadivel/practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devanayakivadivel/practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Devanayakivadivel/practice/tree/master/0889-buddy-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Devanayakivadivel/practice/tree/master/0926-find-and-replace-pattern) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Devanayakivadivel/practice/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1319-unique-number-of-occurrences](https://github.com/Devanayakivadivel/practice/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Devanayakivadivel/practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devanayakivadivel/practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Devanayakivadivel/practice/tree/master/1635-number-of-good-pairs) |
