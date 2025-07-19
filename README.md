@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Devanayakivadivel/practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Devanayakivadivel/practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Devanayakivadivel/practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3221-find-the-peaks](https://github.com/Devanayakivadivel/practice/tree/master/3221-find-the-peaks) |
 ## Greedy
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Devanayakivadivel/practice/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Devanayakivadivel/practice/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Devanayakivadivel/practice/tree/master/2442-number-of-arithmetic-triplets) |
+| [3221-find-the-peaks](https://github.com/Devanayakivadivel/practice/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
