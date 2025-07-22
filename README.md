@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Devanayakivadivel/practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Devanayakivadivel/practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Devanayakivadivel/practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Devanayakivadivel/practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Devanayakivadivel/practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Devanayakivadivel/practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Devanayakivadivel/practice/tree/master/0171-excel-sheet-column-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Devanayakivadivel/practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Devanayakivadivel/practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Devanayakivadivel/practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Devanayakivadivel/practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Devanayakivadivel/practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Devanayakivadivel/practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Devanayakivadivel/practice/tree/master/0171-excel-sheet-column-number) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Devanayakivadivel/practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Devanayakivadivel/practice/tree/master/0258-add-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Devanayakivadivel/practice/tree/master/2288-count-operations-to-obtain-zero) |
 ## Divide and Conquer
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Devanayakivadivel/practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Devanayakivadivel/practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Devanayakivadivel/practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Devanayakivadivel/practice/tree/master/0231-power-of-two) |
