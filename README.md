@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanayakivadivel/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Devanayakivadivel/practice/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devanayakivadivel/practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Devanayakivadivel/practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devanayakivadivel/practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devanayakivadivel/practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Devanayakivadivel/practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Devanayakivadivel/practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Devanayakivadivel/practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devanayakivadivel/practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Devanayakivadivel/practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Devanayakivadivel/practice/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Devanayakivadivel/practice/tree/master/0172-factorial-trailing-zeroes) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devanayakivadivel/practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devanayakivadivel/practice/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devanayakivadivel/practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
