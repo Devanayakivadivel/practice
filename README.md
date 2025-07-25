@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Devanayakivadivel/practice/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Devanayakivadivel/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devanayakivadivel/practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Devanayakivadivel/practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Devanayakivadivel/practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Devanayakivadivel/practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Devanayakivadivel/practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Devanayakivadivel/practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Devanayakivadivel/practice/tree/master/0258-add-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Devanayakivadivel/practice/tree/master/2288-count-operations-to-obtain-zero) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Devanayakivadivel/practice/tree/master/2639-separate-the-digits-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
